@@ -29,6 +29,15 @@ print ( bienvenida)
 
 #Definiendo una variable 
 
+#Definiendo una variable con camelCase
+
+nombreompletoDeTuTioMaster = "Lucas dalto"
+
+#Definiendo una variable con snake_case, esta es la que recomiendan en python
+
+nombre_completo_de_tu_tio_master= "lucas dalto"
+
+
 nombre= "Renzo "
 
 #concatenar con + 
