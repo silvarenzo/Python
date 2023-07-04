@@ -1,0 +1,38 @@
+tipos de dato:
+
+TEXTO=
+ hay dos tipos, simples y compuestos
+
+simples:
+ -textos/string= se escribe con ('', "", """,) 
+ EJEMPLO:
+  'string'
+  "string" 
+  """string"""
+
+las comillas triples me permiten escribir varias lineas en cambio las simples solo en el mismo renglon
+
+NUMEROS= 
+ENTEROS/INT: 3, 4 ,5 ,6 
+
+FLOTANTES/FLOAT: 4.4 6.5 7.34 (LOS NUMEROS CON ,)
+
+BOOLEANOS= PUEDE SER TRUE O FALSE
+
+
+
+
+
+
+
+string = cadenas de textos, se pueden definir ('', "", """,)
+        
+number = numeros 
+
+pueden ser 4 entero o 4.4 son numeros flotantes
+
+datos booleanos= true y false 
+
+ 
+
+

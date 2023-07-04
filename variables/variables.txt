@@ -1,0 +1,37 @@
+las variables son espacios que se almacen en la memoria de nustros programas
+
+-las variables se pueden modificar
+
+nombre = "renzo "
+bienvenida = f"Hola {nombre} ¿como estas?"
+
+print (bienvenida)
+
+para hacer que una variables deje dee estar declarada se agrega el operador "del" adelante de la cadena de texto 
+
+
+nombre = "renzo "
+bienvenida = f"Hola {nombre} ¿como estas?"
+del bienvenida
+print (bienvenida)
+
+del es un operador para borrar datos que se almacenan en la memoria 
+
+operadores de pertenencia 
+
+not in 
+in 
+
+nombre = "renzo "
+bienvenida = f"Hola {nombre} ¿como estas?"
+print ("renzo" in bienvenida)
+
+nombre = "renzo "
+bienvenida = f"Hola {nombre} ¿como estas?"
+print ("renzo" not bienvenida)
+
+
+LAS VARIABLES PRIMERO SE DECLARAR Y DESPUES SE DEFINEN,SON MODIFICABLES
+
+CONCATENACION (UNIR) 
+
